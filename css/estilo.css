@@ -1,0 +1,47 @@
+  *{
+    font-family: 'Artlantis', sans-serif;
+    background-color: #d4bede;
+  }
+
+  section{
+    display: flex;
+    justify-content: center;
+  }
+  
+  h1,h4{
+    color: #692f70;
+    display: flex;
+    justify-content: center;
+  }
+  div {
+    display: inline-block;
+    border: 1px solid #fff;
+    width: 90px;
+    height: 90px;
+  }
+
+.red{
+    background-color: #ff0000;
+}
+
+.blue{
+    background-color: #00b0f0;
+    
+}
+
+.green{
+    background-color: #00b050;
+}
+
+.yellow{
+    background-color: #ffff00;
+}
+
+#red-border{
+  border: 1px solid #000;
+}
+
+footer{
+  margin-top: 50px;
+}
+
