@@ -3,7 +3,7 @@
 
 Neste projeto, usamos HTML e CSS para criar um site com uma grade de quadrados coloridos. Cada quadrado é representado pelo elemento **div** e é estilizado usando classes e IDs. 
 
-Este projeto faz parte do aprendizado do curso ["Descodificadas"](https://descodificadas.com.br/).
+Este projeto faz parte do aprendizado do curso [Descodificadas](https://descodificadas.com.br/).
 
 Veja o resultado do site [aqui](https://andressascript.github.io/Descodificadas/)
 ## Preview
